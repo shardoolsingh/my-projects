@@ -15,3 +15,6 @@
 
 # ignore test file
 new-mario.c
+
+# ignore /test dir
+/test
