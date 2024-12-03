@@ -1,0 +1,17 @@
+# Files and folders to be ignored by git
+
+
+# ignore all
+*
+
+# unignore all with extensions
+!*.*
+
+# unignore all dirs
+!*/
+
+# ignore /temp dir
+/temp
+
+# ignore test file
+new-mario.c
